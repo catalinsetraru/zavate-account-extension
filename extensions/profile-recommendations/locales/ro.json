@@ -1,0 +1,7 @@
+{
+  "heading": "Recomandate pentru tine",
+  "loading": "Se încarcă recomandările",
+  "empty": "Nu avem încă recomandări de produse de afișat.",
+  "fromPurchase": "Pe baza ultimei tale comenzi, iată alte produse din {{collection}}.",
+  "discoverCollection": "Descoperă {{collection}}."
+}

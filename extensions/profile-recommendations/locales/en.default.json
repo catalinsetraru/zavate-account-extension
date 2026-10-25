@@ -1,0 +1,7 @@
+{
+  "heading": "Recommended for you",
+  "loading": "Loading recommendations",
+  "empty": "We don't have product recommendations to show yet.",
+  "fromPurchase": "Based on your last order, here are more pieces from {{collection}}.",
+  "discoverCollection": "Discover {{collection}}."
+}

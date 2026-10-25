@@ -1,0 +1,18 @@
+{
+  "heading": "Measurement check",
+  "loading": "Loading your measurement information",
+  "lastOrder": "Your last order was {{months}} months ago ({{date}}).",
+  "noOrders": "We don't have any measurements on file for you yet.",
+  "sameMeasurements": "Do you have the same measurements?",
+  "lastWorn": "When did you last wear the product?",
+  "needsShowroom": "Do you need to come to the showroom to take your measurements again?",
+  "yes": "Yes",
+  "no": "No",
+  "showroomRecommendation": "We recommend taking your measurements again at the showroom.",
+  "requestViewing": "Request a private viewing",
+  "remeasureRecommendation": "We recommend taking new measurements before ordering.",
+  "agreement": "I understand that if my measurements have changed, I am responsible for choosing to proceed without taking new measurements.",
+  "saveAgreement": "Confirm and save",
+  "saved": "Your measurement agreement has been saved.",
+  "saveError": "We couldn't save your agreement. Please try again."
+}

@@ -1,0 +1,18 @@
+{
+  "heading": "Verificarea măsurătorilor",
+  "loading": "Se încarcă informațiile despre măsurători",
+  "lastOrder": "Ultima ta comandă a fost acum {{months}} luni ({{date}}).",
+  "noOrders": "Încă nu avem măsurătorile tale înregistrate.",
+  "sameMeasurements": "Ai aceleași măsurători?",
+  "lastWorn": "Când ai purtat ultima dată produsul?",
+  "needsShowroom": "Trebuie să vii la showroom pentru a-ți lua din nou măsurătorile?",
+  "yes": "Da",
+  "no": "Nu",
+  "showroomRecommendation": "Îți recomandăm să îți iei din nou măsurătorile la showroom.",
+  "requestViewing": "Solicită o vizionare privată",
+  "remeasureRecommendation": "Îți recomandăm să îți iei din nou măsurătorile înainte de a comanda.",
+  "agreement": "Înțeleg că, dacă măsurătorile mele s-au schimbat, îmi asum responsabilitatea de a continua fără a-mi lua din nou măsurătorile.",
+  "saveAgreement": "Confirmă și salvează",
+  "saved": "Acordul privind măsurătorile a fost salvat.",
+  "saveError": "Acordul nu a putut fi salvat. Te rugăm să încerci din nou."
+}
